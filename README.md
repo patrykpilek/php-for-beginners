@@ -13,6 +13,7 @@
     - Display a message in your web browser
     - What they are, how to create them, and how to name them
     - Basic variable types; String and Numbers
+    - Basic variable types; Boolean and Null
 - [ ] Arrays
 - [ ] Control structures
 - [ ] An Introduction to HTML
