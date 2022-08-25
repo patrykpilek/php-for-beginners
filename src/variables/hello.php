@@ -1,26 +1,18 @@
 <?php
 
-$price = 2.95;
-$quantity = 5;
-
-var_dump($price * $quantity);
-
-
-$message = "Hello";
+$message = 'Hello';
 $name = "Dave";
 
-echo $message . " " . $name;
+$start = "3 o'clock";
+$end = '4 o\'clock';
 
-$price = "150";
-$quantity = 3;
+$days = "Monday\nTuesday\nWednesday";
 
-$price = $price * $quantity;
-
-var_dump($price);
-
-$is_editor = true;
-$is_admin = false;
-
-var_dump( ! $is_editor);
-var_dump($is_editor or $is_admin);
-var_dump($is_editor and $is_admin);
+//echo $message;
+//echo $name;
+//echo $start;
+//echo $end;
+//echo $days;
+//echo "Hello " . $name;
+//echo "Hello $name";
+echo "Hello {$name}";
