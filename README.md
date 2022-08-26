@@ -9,7 +9,7 @@
 
 ## Branches:
 
-- [ ] Variables (E.g.: http://localhost:8000/variables/hello.php)
+- [x] Variables (E.g.: http://localhost:8000/variables/hello.php)
     - Display a message in your web browser
     - What they are, how to create them, and how to name them
     - Basic variable types; String and Numbers
@@ -17,6 +17,7 @@
     - Perform operations on variables: Operators
     - Strings: Using single or double quotes and variable interpolation
 - [ ] Arrays
+    - Introduction to Arrays: Create an Array and Access its elements
 - [ ] Control structures
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
