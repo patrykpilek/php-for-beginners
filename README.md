@@ -18,6 +18,7 @@
     - Strings: Using single or double quotes and variable interpolation
 - [ ] Arrays
     - Introduction to Arrays: Create an Array and Access its elements
+    - Assign manual array indexes and create associative arrays
 - [ ] Control structures
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
