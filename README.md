@@ -1,8 +1,21 @@
 # Php for beginners - Tutorial
 
+## Docker & Docker Compose:
+
+- Nginx
+- PHP
+- MySQL
+- phpMyAdmin
+
 ## Branches:
 
-- [ ] Variables
+- [ ] Variables (E.g.: http://localhost:8000/variables/hello.php)
+    - Display a message in your web browser
+    - What they are, how to create them, and how to name them
+    - Basic variable types; String and Numbers
+    - Basic variable types; Boolean and Null
+    - Perform operations on variables: Operators
+    - Strings: Using single or double quotes and variable interpolation
 - [ ] Arrays
 - [ ] Control structures
 - [ ] An Introduction to HTML
