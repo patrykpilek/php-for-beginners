@@ -19,6 +19,7 @@
 - [ ] Arrays
     - Introduction to Arrays: Create an Array and Access its elements
     - Assign manual array indexes and create associative arrays
+    - Create and access multidimensional arrays
 - [ ] Control structures
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
