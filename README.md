@@ -20,6 +20,7 @@
     - Introduction to Arrays: Create an Array and Access its elements
     - Assign manual array indexes and create associative arrays
     - Create and access multidimensional arrays
+    - Process each element of an arrays: foreach loops
 - [ ] Control structures
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
