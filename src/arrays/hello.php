@@ -1,7 +1,11 @@
 <?php
 
-$articles = [ "First post", "Another post", "Read this!" ];
+$articles = [
+    'a' => "First post",
+    'b' => "Another post",
+    'c' => "Read this!"
+];
 
-foreach ($articles as $article) {
-    echo $article, ", ";
+foreach ($articles as $index => $article) {
+    echo $index . ' - ' . $article, ", ";
 }

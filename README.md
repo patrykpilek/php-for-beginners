@@ -21,6 +21,7 @@
     - Assign manual array indexes and create associative arrays
     - Create and access multidimensional arrays
     - Process each element of an arrays: foreach loops
+    - Process hte value and index of each array element using a foreach loop
 - [ ] Control structures
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
