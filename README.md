@@ -23,6 +23,7 @@
     - Process each element of an arrays: foreach loops
     - Process the value and index of each array element using a foreach loop
 - [ ] Control structures
+  - Run code conditionally: the if construct
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
