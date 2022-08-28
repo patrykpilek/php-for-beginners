@@ -1,9 +1,9 @@
 <?php
 
-$articles = [ "First post", "Another post", "Read this!" ];
+$age = 21;
 
-if (empty($articles)) {
-    echo "The array is empty";
+if ($age >= 21) {
+    echo "Condition is true";
 } else {
-    echo "The array is not empty";
+    echo "Condition is false";
 }

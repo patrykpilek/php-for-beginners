@@ -24,6 +24,7 @@
     - Process the value and index of each array element using a foreach loop
 - [ ] Control structures
   - Run code conditionally: the if construct
+  - Compare one value to another: comparison operators
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
