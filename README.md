@@ -35,6 +35,7 @@
   - Structure the content of your page using heading and paragraph elements
   - Give text emphasis or importance using the em and strong elements
   - Display ordered and unordered lists of items
+  - Insert images into an HTML document
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
 - [ ] Multiple Pages in PHP
