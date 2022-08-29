@@ -37,6 +37,7 @@
   - Display ordered and unordered lists of items
   - Insert images into an HTML document
   - Add a link from one page to another using a hyperlink
+  - Add semantic structures to the body of an html document
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
 - [ ] Multiple Pages in PHP
