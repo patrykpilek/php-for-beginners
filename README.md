@@ -27,6 +27,7 @@
   - Compare one value to another: comparison operators
   - Run code multiple times based on a condition: while loops
   - Run code a specific number of times: for loops
+  - Add more conditions to an if statement suing elseif
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
