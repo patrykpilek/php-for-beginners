@@ -30,6 +30,7 @@
   - Add more conditions to an if statement suing elseif
   - Perform different actions based on different conditions: the switch statement
 - [ ] An Introduction to HTML
+  - The language of web pages: an introduction to html
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
 - [ ] Multiple Pages in PHP
