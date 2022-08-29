@@ -22,12 +22,13 @@
     - Create and access multidimensional arrays
     - Process each element of an arrays: foreach loops
     - Process the value and index of each array element using a foreach loop
-- [ ] Control structures
+- [x] Control structures
   - Run code conditionally: the if construct
   - Compare one value to another: comparison operators
   - Run code multiple times based on a condition: while loops
   - Run code a specific number of times: for loops
   - Add more conditions to an if statement suing elseif
+  - Perform different actions based on different conditions: the switch statement
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
