@@ -1,9 +1,8 @@
 <?php
 
-$age = 21;
+$month = 1;
 
-if ($age >= 21) {
-    echo "Condition is true";
-} else {
-    echo "Condition is false";
+while ($month <= 12) {
+    echo $month . ", ";
+    $month = $month + 1;
 }

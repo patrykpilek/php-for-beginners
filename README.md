@@ -25,6 +25,7 @@
 - [ ] Control structures
   - Run code conditionally: the if construct
   - Compare one value to another: comparison operators
+  - Run code multiple times based on a condition: while loops
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
