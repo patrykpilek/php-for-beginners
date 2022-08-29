@@ -30,6 +30,14 @@
   - Add more conditions to an if statement suing elseif
   - Perform different actions based on different conditions: the switch statement
 - [ ] An Introduction to HTML
+  - The language of web pages: an introduction to html
+  - Use head and body elements to structure an html document
+  - Structure the content of your page using heading and paragraph elements
+  - Give text emphasis or importance using the em and strong elements
+  - Display ordered and unordered lists of items
+  - Insert images into an HTML document
+  - Add a link from one page to another using a hyperlink
+  - Add semantic structures to the body of an html document
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
 - [ ] Multiple Pages in PHP
