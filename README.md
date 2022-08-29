@@ -26,6 +26,7 @@
   - Run code conditionally: the if construct
   - Compare one value to another: comparison operators
   - Run code multiple times based on a condition: while loops
+  - Run code a specific number of times: for loops
 - [ ] An Introduction to HTML
 - [ ] Mixing PHP and HTML
 - [ ] An Introduction to Databases
