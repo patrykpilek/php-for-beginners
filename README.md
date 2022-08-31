@@ -40,6 +40,9 @@
   - Add semantic structures to the body of an html document
 - [ ] Mixing PHP and HTML
   - Create dynamic content: mixing html and php
+  - Use PHP control structures mixed with HTML
+  - Make HTML more readable:use whitespace and comments
+  - Make PHP easier to maintain: use comments and coding standards
 - [ ] An Introduction to Databases
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
