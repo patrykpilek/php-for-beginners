@@ -39,6 +39,7 @@
   - Add a link from one page to another using a hyperlink
   - Add semantic structures to the body of an html document
 - [ ] Mixing PHP and HTML
+  - Create dynamic content: mixing html and php
 - [ ] An Introduction to Databases
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
