@@ -44,6 +44,7 @@
   - Make HTML more readable:use whitespace and comments
   - Make PHP easier to maintain: use comments and coding standards
 - [ ] An Introduction to Databases
+  - Where to store data in a dynamic website: an introduction to databases
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
