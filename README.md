@@ -46,6 +46,7 @@
 - [ ] An Introduction to Databases
   - Where to store data in a dynamic website: an introduction to databases
   - Access the database server using phpMyAdmin and create a database
+  - Use tables to store structured data in database
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
