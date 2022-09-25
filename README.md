@@ -29,7 +29,7 @@
   - Run code a specific number of times: for loops
   - Add more conditions to an if statement suing elseif
   - Perform different actions based on different conditions: the switch statement
-- [ ] An Introduction to HTML
+- [x] An Introduction to HTML
   - The language of web pages: an introduction to html
   - Use head and body elements to structure an html document
   - Structure the content of your page using heading and paragraph elements
@@ -38,7 +38,7 @@
   - Insert images into an HTML document
   - Add a link from one page to another using a hyperlink
   - Add semantic structures to the body of an html document
-- [ ] Mixing PHP and HTML
+- [x] Mixing PHP and HTML
   - Create dynamic content: mixing html and php
   - Use PHP control structures mixed with HTML
   - Make HTML more readable:use whitespace and comments
@@ -47,6 +47,7 @@
   - Where to store data in a dynamic website: an introduction to databases
   - Access the database server using phpMyAdmin and create a database
   - Use tables to store structured data in database
+  - Select some data from the database, an introduction to SQL
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
