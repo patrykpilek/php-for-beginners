@@ -48,6 +48,7 @@
   - Access the database server using phpMyAdmin and create a database
   - Use tables to store structured data in database
   - Select some data from the database, an introduction to SQL
+  - Using indexes: make queries faster and order the result set
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP

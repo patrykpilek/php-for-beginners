@@ -10,3 +10,7 @@ SELECT * FROM `article` WHERE id = 2;
 SELECT * FROM `article` WHERE title = 'Second post';
 SELECT * FROM `article` WHERE title != 'Second post';
 SELECT * FROM `article` WHERE title = 'Second post' OR title = 'First post';
+
+
+SELECT * FROM `article` ORDER BY title;
+SELECT * FROM `article` ORDER BY title DESC;
