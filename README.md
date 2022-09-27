@@ -43,7 +43,7 @@
   - Use PHP control structures mixed with HTML
   - Make HTML more readable:use whitespace and comments
   - Make PHP easier to maintain: use comments and coding standards
-- [ ] An Introduction to Databases
+- [x] An Introduction to Databases
   - Where to store data in a dynamic website: an introduction to databases
   - Access the database server using phpMyAdmin and create a database
   - Use tables to store structured data in database
@@ -51,6 +51,7 @@
   - Using indexes: make queries faster and order the result set
   - Connect to the database from PHP
   - Query the database form PHP and get the results
+  - Combine PHP and HTML to show a formatted list of article
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
