@@ -50,6 +50,7 @@
   - Select some data from the database, an introduction to SQL
   - Using indexes: make queries faster and order the result set
   - Connect to the database from PHP
+  - Query the database form PHP and get the results
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
