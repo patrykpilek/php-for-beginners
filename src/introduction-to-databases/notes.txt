@@ -14,3 +14,13 @@ SELECT * FROM `article` WHERE title = 'Second post' OR title = 'First post';
 
 SELECT * FROM `article` ORDER BY title;
 SELECT * FROM `article` ORDER BY title DESC;
+
+PHP: mysqli_connect
+https://www.php.net/manual/en/function.mysqli-connect.php
+
+PHP: MySQLi
+https://www.php.net/manual/en/book.mysqli.php
+
+PHP: mysql_connect_error
+https://www.php.net/manual/en/mysqli.connect-error.php
+

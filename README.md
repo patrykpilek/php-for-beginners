@@ -49,6 +49,7 @@
   - Use tables to store structured data in database
   - Select some data from the database, an introduction to SQL
   - Using indexes: make queries faster and order the result set
+  - Connect to the database from PHP
 - [ ] Multiple Pages in PHP
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
