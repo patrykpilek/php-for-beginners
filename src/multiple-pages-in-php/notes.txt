@@ -1,0 +1,24 @@
+1.
+PHP: mysqli_fetch_assoc:
+https://www.php.net/manual/en/mysqli-result.fetch-assoc.php
+
+2.
+PHP: Superglobals:
+https://www.php.net/manual/en/language.variables.superglobals.php
+
+PHP: $_GET:
+https://www.php.net/manual/en/reserved.variables.get.php
+
+3.
+PHP: is_numeric
+https://www.php.net/manual/en/function.is-numeric.php
+
+PHP: isset
+https://www.php.net/manual/en/function.isset.php
+
+PHP: logical operators
+https://www.php.net/manual/en/language.operators.logical.php
+
+4.
+PHP: include
+https://www.php.net/manual/en/function.include.php
