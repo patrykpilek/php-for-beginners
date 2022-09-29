@@ -57,6 +57,7 @@
   - Passing data in the URL:send the article ID using the query string
   - Avoid SQL Injection: validate the ID passed in from the query string
   - Don't repeat yourself: extract repeated code to a separate file
+  - Organise and secure access to the included files
 - [ ] An Introduction to HTML Forms
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
