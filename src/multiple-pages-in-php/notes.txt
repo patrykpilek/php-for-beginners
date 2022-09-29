@@ -1,2 +1,10 @@
+1.
 PHP: mysqli_fetch_assoc:
 https://www.php.net/manual/en/mysqli-result.fetch-assoc.php
+
+2.
+PHP: Superglobals:
+https://www.php.net/manual/en/language.variables.superglobals.php
+
+PHP: $_GET:
+https://www.php.net/manual/en/reserved.variables.get.php
