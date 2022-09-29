@@ -1,0 +1,2 @@
+PHP: mysqli_fetch_assoc:
+https://www.php.net/manual/en/mysqli-result.fetch-assoc.php
