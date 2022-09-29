@@ -1,0 +1,10 @@
+create new table
+
+name: article
+number of columns: 4
+
+article
+id - primary key, auto increment
+title - string varchar(128)
+content - text
+published_at - datetime, default - null

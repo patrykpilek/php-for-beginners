@@ -1,0 +1,15 @@
+url: http://localhost:8001
+
+server: mysql
+username: tutorial/root
+password: secret
+
+create new databases
+databases: cms
+collation: utf8mb4_unicode_ci
+
+Privileges
+
+Add user account
+user name: cms_www
+password: b.-6SuldIoHSi.1e
