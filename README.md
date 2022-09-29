@@ -52,7 +52,7 @@
   - Connect to the database from PHP
   - Query the database form PHP and get the results
   - Combine PHP and HTML to show a formatted list of article
-- [ ] Multiple Pages in PHP
+- [x] Multiple Pages in PHP
   - Add a new page to show a single article
   - Passing data in the URL:send the article ID using the query string
   - Avoid SQL Injection: validate the ID passed in from the query string
