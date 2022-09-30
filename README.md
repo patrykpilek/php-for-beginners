@@ -59,6 +59,7 @@
   - Don't repeat yourself: extract repeated code to a separate file
   - Organise and secure access to the included files
 - [ ] An Introduction to HTML Forms
+  - Getting data from the user: an introduction to form in HTML
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
