@@ -63,6 +63,7 @@
   - Change the method the form uses to send its data: get vs post
   - Get different types of data from the user: basic input types
   - Access data from the form on the server
+  - Add a multi-line text control: the textarea element
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP

@@ -28,3 +28,10 @@ https://devdocs.io/html/element/input
 
 DevDocs - HTML /button
 https://devdocs.io/html/element/button
+
+5.
+DevDocs - HTML / input type="text"
+https://devdocs.io/html/element/input/text
+
+DevDocs - HTML / textarea
+https://devdocs.io/html/element/textarea
