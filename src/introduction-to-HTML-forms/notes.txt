@@ -1,2 +1,10 @@
+1.
 PHP: HTML / form
 https://devdocs.io/html/element/form
+
+2.
+PHP: $_GET
+https://www.php.net/manual/en/reserved.variables.get.php
+
+PHP: $_SERVER
+https://www.php.net/manual/en/reserved.variables.server.php
