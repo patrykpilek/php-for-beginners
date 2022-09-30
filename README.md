@@ -61,6 +61,7 @@
 - [ ] An Introduction to HTML Forms
   - Getting data from the user: an introduction to form in HTML
   - Change the method the form uses to send its data: get vs post
+  - Get different types of data from the user: basic input types
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP

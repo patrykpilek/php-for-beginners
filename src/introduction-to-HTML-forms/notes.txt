@@ -8,3 +8,16 @@ https://www.php.net/manual/en/reserved.variables.get.php
 
 PHP: $_SERVER
 https://www.php.net/manual/en/reserved.variables.server.php
+
+3.
+DevDocs - HTML / input
+https://devdocs.io/html/element/input
+
+mobile input types
+http://mobileinputtypes.com/
+
+HTML5 Please
+https://html5please.com/
+
+Can I use... Support tables for HTML5
+https://caniuse.com/
