@@ -35,3 +35,7 @@ https://devdocs.io/html/element/input/text
 
 DevDocs - HTML / textarea
 https://devdocs.io/html/element/textarea
+
+6.
+DevDocs - HTML / select
+https://devdocs.io/html/element/select

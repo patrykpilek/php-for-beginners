@@ -64,6 +64,7 @@
   - Get different types of data from the user: basic input types
   - Access data from the form on the server
   - Add a multi-line text control: the textarea element
+  - DevDocs - HTML / select
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
