@@ -66,6 +66,7 @@
   - Add a multi-line text control: the textarea element
   - Present a fixed list of options: the select element
   - Toggle an Option on or off: checkboxes
+  - Select only one option from a list: radio buttons
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
