@@ -39,3 +39,7 @@ https://devdocs.io/html/element/textarea
 6.
 DevDocs - HTML / select
 https://devdocs.io/html/element/select
+
+7.
+DevDocs - HTML / input type="checkbox"
+https://devdocs.io/html/element/input/checkbox
