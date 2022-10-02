@@ -1,0 +1,69 @@
+1.
+PHP: HTML / form
+https://devdocs.io/html/element/form
+
+2.
+PHP: $_GET
+https://www.php.net/manual/en/reserved.variables.get.php
+
+PHP: $_SERVER
+https://www.php.net/manual/en/reserved.variables.server.php
+
+3.
+DevDocs - HTML / input
+https://devdocs.io/html/element/input
+
+mobile input types
+http://mobileinputtypes.com/
+
+HTML5 Please
+https://html5please.com/
+
+Can I use... Support tables for HTML5
+https://caniuse.com/
+
+4.
+DevDocs - HTML / input
+https://devdocs.io/html/element/input
+
+DevDocs - HTML /button
+https://devdocs.io/html/element/button
+
+5.
+DevDocs - HTML / input type="text"
+https://devdocs.io/html/element/input/text
+
+DevDocs - HTML / textarea
+https://devdocs.io/html/element/textarea
+
+6.
+DevDocs - HTML / select
+https://devdocs.io/html/element/select
+
+7.
+DevDocs - HTML / input type="checkbox"
+https://devdocs.io/html/element/input/checkbox
+
+8.
+DevDocs - HTML / input type="radio"
+
+9.
+DevDocs - HTML / label
+https://devdocs.io/html/element/label
+
+10.
+DevDocs - HTML / fieldset
+https://devdocs.io/html/element/fieldset
+
+12.
+DevDocs - HTML / input type="number"
+https://devdocs.io/html/element/input/number
+
+HTML5 Pattern
+https://www.html5pattern.com/
+
+Can I use... form validation
+https://caniuse.com/form-validation
+
+DevDocs - DOM / HTMLSelectElement.setCustomValidity
+https://devdocs.io/dom/htmlselectelement/setcustomvalidity

@@ -58,7 +58,19 @@
   - Avoid SQL Injection: validate the ID passed in from the query string
   - Don't repeat yourself: extract repeated code to a separate file
   - Organise and secure access to the included files
-- [ ] An Introduction to HTML Forms
+- [x] An Introduction to HTML Forms
+  - Getting data from the user: an introduction to form in HTML
+  - Change the method the form uses to send its data: get vs post
+  - Get different types of data from the user: basic input types
+  - Access data from the form on the server
+  - Add a multi-line text control: the textarea element
+  - Present a fixed list of options: the select element
+  - Toggle an Option on or off: checkboxes
+  - Select only one option from a list: radio buttons
+  - Add an accessible caption to each input: the label element
+  - Make the form easier to use: fieldsets and placeholders
+  - Common form control attributes: readonly, disabled and autofocus
+  - Validate input using HTML5 form validation
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
