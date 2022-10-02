@@ -54,3 +54,16 @@ https://devdocs.io/html/element/label
 10.
 DevDocs - HTML / fieldset
 https://devdocs.io/html/element/fieldset
+
+12.
+DevDocs - HTML / input type="number"
+https://devdocs.io/html/element/input/number
+
+HTML5 Pattern
+https://www.html5pattern.com/
+
+Can I use... form validation
+https://caniuse.com/form-validation
+
+DevDocs - DOM / HTMLSelectElement.setCustomValidity
+https://devdocs.io/dom/htmlselectelement/setcustomvalidity
