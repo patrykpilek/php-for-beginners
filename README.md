@@ -69,6 +69,7 @@
   - Select only one option from a list: radio buttons
   - Add an accessible caption to each input: the label element
   - Make the form easier to use: fieldsets and placeholders
+  - Common form control attributes: readonly, disabled and autofocus
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
