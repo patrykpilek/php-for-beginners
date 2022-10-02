@@ -46,3 +46,7 @@ https://devdocs.io/html/element/input/checkbox
 
 8.
 DevDocs - HTML / input type="radio"
+
+9.
+DevDocs - HTML / label
+https://devdocs.io/html/element/label
