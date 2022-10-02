@@ -4,3 +4,19 @@ https://mariadb.com/kb/en/data-manipulation/
 
 PHP: mysqli_insert_id
 https://www.php.net/manual/en/mysqli.insert-id.php
+
+3.
+The mysql Database Tables - MariaDB knowledge base
+https://mariadb.com/kb/en/the-mysql-database-tables/
+
+Crack mysql password - google search
+https://www.google.co.uk/search?q=crack+mysql+password
+
+CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc...
+https://crackstation.net/
+
+PHP: mysqli_real_escape_string
+https://www.php.net/manual/en/mysqli.real-escape-string.php
+
+PHP: mysqli_escape_string
+https://www.php.net/manual/en/function.mysqli-escape-string.php
