@@ -68,6 +68,7 @@
   - Toggle an Option on or off: checkboxes
   - Select only one option from a list: radio buttons
   - Add an accessible caption to each input: the label element
+  - Make the form easier to use: fieldsets and placeholders
 - [ ] Inserting Data Into the Database from PHP
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
