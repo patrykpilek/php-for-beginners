@@ -58,7 +58,7 @@
   - Avoid SQL Injection: validate the ID passed in from the query string
   - Don't repeat yourself: extract repeated code to a separate file
   - Organise and secure access to the included files
-- [ ] An Introduction to HTML Forms
+- [x] An Introduction to HTML Forms
   - Getting data from the user: an introduction to form in HTML
   - Change the method the form uses to send its data: get vs post
   - Get different types of data from the user: basic input types
