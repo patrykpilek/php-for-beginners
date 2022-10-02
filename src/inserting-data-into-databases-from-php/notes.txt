@@ -1,0 +1,6 @@
+2.
+Data Manipulation - MariaDB Knowledge Base:
+https://mariadb.com/kb/en/data-manipulation/
+
+PHP: mysqli_insert_id
+https://www.php.net/manual/en/mysqli.insert-id.php

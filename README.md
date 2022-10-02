@@ -73,6 +73,7 @@
   - Validate input using HTML5 form validation
 - [ ] Inserting Data Into the Database from PHP
   - Add a form to insert a new article
+  - Insert a new article into the database and get the ID of the new record
 - [ ] An Introduction to Functions and Validation in PHP
 - [ ] Editing Data in the Database from PHP
 - [ ] Deleting Data from the Database from PHP
