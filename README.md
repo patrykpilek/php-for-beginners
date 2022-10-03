@@ -71,7 +71,7 @@
   - Make the form easier to use: fieldsets and placeholders
   - Common form control attributes: readonly, disabled and autofocus
   - Validate input using HTML5 form validation
-- [ ] Inserting Data Into the Database from PHP
+- [x] Inserting Data Into the Database from PHP
   - Add a form to insert a new article
   - Insert a new article into the database and get the ID of the new record
   - Avoid SQL Injection attacks: escape input
