@@ -78,6 +78,7 @@
   - Avoid SQL Injection attacks: use prepared statements
 - [ ] An Introduction to Functions and Validation in PHP
   - Functions: define and call a function in PHP
+  - Create a function to connect to the database
 - [ ] Editing Data in the Database from PHP
 - [ ] Deleting Data from the Database from PHP
 - [ ] Using Sessions to Log in and Restrict Access
