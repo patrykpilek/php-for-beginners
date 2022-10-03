@@ -1,0 +1,6 @@
+1.
+PHP: Function Reference
+https://www.php.net/manual/en/funcref.php
+
+phpDocumentor
+https://docs.phpdoc.org/guide/getting-started/what-is-a-docblock.html
