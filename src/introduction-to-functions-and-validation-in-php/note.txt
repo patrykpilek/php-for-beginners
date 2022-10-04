@@ -11,3 +11,13 @@ https://developer.mozilla.org/en-US/docs/Glossary/Entity#reserved_characters
 
 PHP: htmlspecialchars
 https://www.php.net/manual/en/function.htmlspecialchars.php
+
+7.
+MariaDB Date and Time literals
+https://mariadb.com/kb/en/date-and-time-literals/#datetime-literals
+
+PHP: date_create_from_format
+https://www.php.net/manual/en/datetime.createfromformat.php
+
+PHP: date_get_last_errors
+https://www.php.net/manual/en/datetime.getlasterrors.php
