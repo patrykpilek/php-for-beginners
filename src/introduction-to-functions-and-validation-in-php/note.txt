@@ -4,3 +4,10 @@ https://www.php.net/manual/en/funcref.php
 
 phpDocumentor
 https://docs.phpdoc.org/guide/getting-started/what-is-a-docblock.html
+
+5.
+HTML Reserved characters
+https://developer.mozilla.org/en-US/docs/Glossary/Entity#reserved_characters
+
+PHP: htmlspecialchars
+https://www.php.net/manual/en/function.htmlspecialchars.php

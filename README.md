@@ -81,6 +81,7 @@
   - Create a function to connect to the database
   - Validate the form data and redisplay the form with error messages if invalid
   - Maintain previously - supplied data when redisplaying an invalid form
+  - Avoid cross-site scripting (XSS) attacks: escape untrusted content
 - [ ] Editing Data in the Database from PHP
 - [ ] Deleting Data from the Database from PHP
 - [ ] Using Sessions to Log in and Restrict Access
