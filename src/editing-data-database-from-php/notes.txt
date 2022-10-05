@@ -2,3 +2,6 @@
 PHP: mysqli_fetch_array
 https://www.php.net/manual/en/mysqli-result.fetch-array.php
 
+3.
+PHP: empty
+https://www.php.net/manual/en/function.empty.php

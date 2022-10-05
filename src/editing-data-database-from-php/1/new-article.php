@@ -66,7 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 } else {
                     $protocol = 'http';
                 }
-                header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/introduction-to-functions-and-validation-in-php/8/article.php?id=$id");
+                header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/editing-data-database-from-php/1/article.php?id=$id");
                 exit;
 
             } else {
