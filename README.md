@@ -76,7 +76,7 @@
   - Insert a new article into the database and get the ID of the new record
   - Avoid SQL Injection attacks: escape input
   - Avoid SQL Injection attacks: use prepared statements
-- [ ] An Introduction to Functions and Validation in PHP
+- [x] An Introduction to Functions and Validation in PHP
   - Functions: define and call a function in PHP
   - Create a function to connect to the database
   - Validate the form data and redisplay the form with error messages if invalid
