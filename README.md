@@ -87,6 +87,7 @@
   - Redirect to the article page after inserting a new article
 - [ ] Editing Data in the Database from PHP
   - Editing existing articles: create a function to get a single article
+  - Add a form for editing an existing article
 - [ ] Deleting Data from the Database from PHP
 - [ ] Using Sessions to Log in and Restrict Access
 - [ ] An Introduction to Object-Oriented PHP
