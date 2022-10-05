@@ -1,0 +1,4 @@
+1.
+PHP: mysqli_fetch_array
+https://www.php.net/manual/en/mysqli-result.fetch-array.php
+
