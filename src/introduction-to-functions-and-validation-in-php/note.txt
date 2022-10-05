@@ -21,3 +21,10 @@ https://www.php.net/manual/en/datetime.createfromformat.php
 
 PHP: date_get_last_errors
 https://www.php.net/manual/en/datetime.getlasterrors.php
+
+8.
+PHP: header
+https://www.php.net/manual/en/function.header.php
+
+PHP: $_SERVER
+https://www.php.net/manual/en/reserved.variables.server.php

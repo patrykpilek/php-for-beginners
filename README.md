@@ -84,6 +84,7 @@
   - Avoid cross-site scripting (XSS) attacks: escape untrusted content
   - Insert NULL if the publication date is empty
   - Validate the publication date is a valid date and time
+  - Redirect to the article page after inserting a new article
 - [ ] Editing Data in the Database from PHP
 - [ ] Deleting Data from the Database from PHP
 - [ ] Using Sessions to Log in and Restrict Access
