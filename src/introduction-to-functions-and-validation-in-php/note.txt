@@ -1,0 +1,30 @@
+1.
+PHP: Function Reference
+https://www.php.net/manual/en/funcref.php
+
+phpDocumentor
+https://docs.phpdoc.org/guide/getting-started/what-is-a-docblock.html
+
+5.
+HTML Reserved characters
+https://developer.mozilla.org/en-US/docs/Glossary/Entity#reserved_characters
+
+PHP: htmlspecialchars
+https://www.php.net/manual/en/function.htmlspecialchars.php
+
+7.
+MariaDB Date and Time literals
+https://mariadb.com/kb/en/date-and-time-literals/#datetime-literals
+
+PHP: date_create_from_format
+https://www.php.net/manual/en/datetime.createfromformat.php
+
+PHP: date_get_last_errors
+https://www.php.net/manual/en/datetime.getlasterrors.php
+
+8.
+PHP: header
+https://www.php.net/manual/en/function.header.php
+
+PHP: $_SERVER
+https://www.php.net/manual/en/reserved.variables.server.php
