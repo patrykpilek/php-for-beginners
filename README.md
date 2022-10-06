@@ -85,7 +85,7 @@
   - Insert NULL if the publication date is empty
   - Validate the publication date is a valid date and time
   - Redirect to the article page after inserting a new article
-- [ ] Editing Data in the Database from PHP
+- [x] Editing Data in the Database from PHP
   - Editing existing articles: create a function to get a single article
   - Add a form for editing an existing article
   - Add a validation function and validate the form data
