@@ -89,6 +89,7 @@
   - Editing existing articles: create a function to get a single article
   - Add a form for editing an existing article
   - Add a validation function and validate the form data
+  - Update and existing article in the database
 - [ ] Deleting Data from the Database from PHP
 - [ ] Using Sessions to Log in and Restrict Access
 - [ ] An Introduction to Object-Oriented PHP
