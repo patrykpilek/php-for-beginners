@@ -91,7 +91,11 @@
   - Add a validation function and validate the form data
   - Update and existing article in the database
   - Create a function to redirect to another URL
-- [ ] Deleting Data from the Database from PHP
+- [x] Deleting Data from the Database from PHP
+  - Delete an existing article in the database
+  - Use the POST request method to delete the article
+  - Get confirmation from the user before deleting the article
+  - Improve database performance: only use SELECT * when necessary
 - [ ] Using Sessions to Log in and Restrict Access
 - [ ] An Introduction to Object-Oriented PHP
 - [ ] PDO: PHP Data Objects
