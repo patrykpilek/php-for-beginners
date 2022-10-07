@@ -92,6 +92,7 @@
   - Update and existing article in the database
   - Create a function to redirect to another URL
 - [ ] Deleting Data from the Database from PHP
+  - Delete an existing article in the database
 - [ ] Using Sessions to Log in and Restrict Access
 - [ ] An Introduction to Object-Oriented PHP
 - [ ] PDO: PHP Data Objects
