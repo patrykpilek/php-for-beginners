@@ -1,0 +1,9 @@
+1.
+PHP: session_start
+https://www.php.net/manual/en/function.session-start.php
+
+PHP: $_SESSION
+https://www.php.net/manual/en/reserved.variables.session.php
+
+
+

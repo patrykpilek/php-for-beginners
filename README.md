@@ -97,6 +97,7 @@
   - Get confirmation from the user before deleting the article
   - Improve database performance: only use SELECT * when necessary
 - [ ] Using Sessions to Log in and Restrict Access
+  - Make the web browser remember you between visits: an introduction to sessions
 - [ ] An Introduction to Object-Oriented PHP
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
