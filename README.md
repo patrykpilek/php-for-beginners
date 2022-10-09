@@ -99,6 +99,7 @@
 - [ ] Using Sessions to Log in and Restrict Access
   - Make the web browser remember you between visits: an introduction to sessions
   - Store data in the browser: cookies in PHP
+  - Store a value in the session to log in and log out a user
 - [ ] An Introduction to Object-Oriented PHP
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
