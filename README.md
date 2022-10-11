@@ -100,6 +100,7 @@
   - Make the web browser remember you between visits: an introduction to sessions
   - Store data in the browser: cookies in PHP
   - Store a value in the session to log in and log out a user
+  - Add a login form and process the user's login credentials
 - [ ] An Introduction to Object-Oriented PHP
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
