@@ -1,0 +1,30 @@
+1.
+PHP: session_start
+https://www.php.net/manual/en/function.session-start.php
+
+PHP: $_SESSION
+https://www.php.net/manual/en/reserved.variables.session.php
+
+2.
+PHP: session cookie runtime configuration
+https://www.php.net/manual/en/session.configuration.php#ini.session.use-cookies
+
+PHP: setcooki
+https://www.php.net/manual/en/function.setcookie.php
+
+PHP: $_COOKIE
+https://www.php.net/manual/en/reserved.variables.cookies.php
+
+PHP: session_start
+https://www.php.net/manual/en/function.session-start.php
+
+5.
+PHP: session_destroy
+https://www.php.net/manual/en/function.session-destroy.php
+
+6.
+Session fixation - OWASP
+https://owasp.org/www-community/attacks/Session_fixation
+
+PHP: session_regenerate_id
+https://www.php.net/manual/en/function.session-regenerate-id.php
