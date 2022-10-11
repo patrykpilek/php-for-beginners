@@ -18,3 +18,6 @@ https://www.php.net/manual/en/reserved.variables.cookies.php
 PHP: session_start
 https://www.php.net/manual/en/function.session-start.php
 
+5.
+PHP: session_destroy
+https://www.php.net/manual/en/function.session-destroy.php

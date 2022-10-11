@@ -16,6 +16,6 @@ function redirect($path)
     }
 
 //    header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . $path);
-    header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/session-to-log-in-and-restrict-access/4" . $path);
+    header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/session-to-log-in-and-restrict-access/5" . $path);
     exit;
 }
