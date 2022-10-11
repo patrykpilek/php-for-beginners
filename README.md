@@ -102,6 +102,7 @@
   - Store a value in the session to log in and log out a user
   - Add a login form and process the user's login credentials
   - Completely destroy the session on logout and redirect back to the index page
+  - Increase security: prevent session fixation attacks
 - [ ] An Introduction to Object-Oriented PHP
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database

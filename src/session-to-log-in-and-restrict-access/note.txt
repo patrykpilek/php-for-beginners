@@ -21,3 +21,10 @@ https://www.php.net/manual/en/function.session-start.php
 5.
 PHP: session_destroy
 https://www.php.net/manual/en/function.session-destroy.php
+
+6.
+Session fixation - OWASP
+https://owasp.org/www-community/attacks/Session_fixation
+
+PHP: session_regenerate_id
+https://www.php.net/manual/en/function.session-regenerate-id.php
