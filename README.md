@@ -106,6 +106,7 @@
   - Restrict access to a page to a logged-in user only
 - [ ] An Introduction to Object-Oriented PHP
   - Classes and objects: an introduction to object-oriented PHP
+  - Object attributes: adding properties to a class
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
