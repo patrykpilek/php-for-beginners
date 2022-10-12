@@ -105,6 +105,7 @@
   - Increase security: prevent session fixation attacks
   - Restrict access to a page to a logged-in user only
 - [ ] An Introduction to Object-Oriented PHP
+  - Classes and objects: an introduction to object-oriented PHP
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
