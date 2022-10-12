@@ -109,6 +109,7 @@
   - Object attributes: adding properties to a class
   - Object functions: adding methods to a class
   - Object initialisation: adding methods to a class
+  - Control Access: public and private visibility of properties and methods
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
