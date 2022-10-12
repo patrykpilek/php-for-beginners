@@ -107,6 +107,7 @@
 - [ ] An Introduction to Object-Oriented PHP
   - Classes and objects: an introduction to object-oriented PHP
   - Object attributes: adding properties to a class
+  - Object functions: adding methods to a class
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
