@@ -113,6 +113,7 @@
   - Public properties vs getter and setter methods
   - Static properties and methods
   - Constants: using define and const to create constant values
+  - Inheritance: using the extends keyword to reuse code and reduce repetition
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
