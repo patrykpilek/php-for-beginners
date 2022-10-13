@@ -5,3 +5,10 @@ https://www.php-fig.org/psr/psr-1/
 3.
 PSR-1: Basic coding standard
 https://www.php-fig.org/psr/psr-1/
+
+6.
+php-getters-setters Atom package
+https://atom.io/packages/php-getters-setters
+
+What are PHP magic methods?
+https://www.culttt.com/2014/04/16/php-magic-methods/
