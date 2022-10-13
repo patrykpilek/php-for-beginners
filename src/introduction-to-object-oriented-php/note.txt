@@ -12,3 +12,13 @@ https://atom.io/packages/php-getters-setters
 
 What are PHP magic methods?
 https://www.culttt.com/2014/04/16/php-magic-methods/
+
+8.
+PHP: define
+https://www.php.net/manual/en/function.define.php
+
+PHP: Class constants
+https://www.php.net/manual/en/language.oop5.constants.php
+
+PSR-1: Basic coding standard
+https://www.php-fig.org/psr/psr-1/

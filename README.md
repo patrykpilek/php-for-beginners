@@ -112,6 +112,7 @@
   - Control Access: public and private visibility of properties and methods
   - Public properties vs getter and setter methods
   - Static properties and methods
+  - Constants: using define and const to create constant values
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
