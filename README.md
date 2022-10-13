@@ -114,6 +114,7 @@
   - Static properties and methods
   - Constants: using define and const to create constant values
   - Inheritance: using the extends keyword to reuse code and reduce repetition
+  - Overriding methods and using the parent keyword to call the parent class code 
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
