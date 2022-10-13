@@ -104,7 +104,7 @@
   - Completely destroy the session on logout and redirect back to the index page
   - Increase security: prevent session fixation attacks
   - Restrict access to a page to a logged-in user only
-- [ ] An Introduction to Object-Oriented PHP
+- [x] An Introduction to Object-Oriented PHP
   - Classes and objects: an introduction to object-oriented PHP
   - Object attributes: adding properties to a class
   - Object functions: adding methods to a class
