@@ -104,7 +104,18 @@
   - Completely destroy the session on logout and redirect back to the index page
   - Increase security: prevent session fixation attacks
   - Restrict access to a page to a logged-in user only
-- [ ] An Introduction to Object-Oriented PHP
+- [x] An Introduction to Object-Oriented PHP
+  - Classes and objects: an introduction to object-oriented PHP
+  - Object attributes: adding properties to a class
+  - Object functions: adding methods to a class
+  - Object initialisation: adding methods to a class
+  - Control Access: public and private visibility of properties and methods
+  - Public properties vs getter and setter methods
+  - Static properties and methods
+  - Constants: using define and const to create constant values
+  - Inheritance: using the extends keyword to reuse code and reduce repetition
+  - Overriding methods and using the parent keyword to call the parent class code
+  - Control Access: Protected visibility of properties and methods
 - [ ] PDO: PHP Data Objects
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
