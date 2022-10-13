@@ -22,3 +22,7 @@ https://www.php.net/manual/en/language.oop5.constants.php
 
 PSR-1: Basic coding standard
 https://www.php-fig.org/psr/psr-1/
+
+11.
+PHP: Visibility
+https://www.php.net/manual/en/language.oop5.visibility.php
