@@ -117,6 +117,7 @@
   - Overriding methods and using the parent keyword to call the parent class code
   - Control Access: Protected visibility of properties and methods
 - [ ] PDO: PHP Data Objects
+  - Add a database class and connect to the database using php data objects (PDO)
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
 - [ ] Site Administration
