@@ -17,3 +17,14 @@ https://www.php.net/manual/en/pdo.construct.php
 2.
 PHP: PDO::query
 https://www.php.net/manual/en/pdo.query.php
+
+3.
+PHP: Exceptions
+https://www.php.net/manual/en/language.exceptions.php
+
+PHP: Exception class
+https://www.php.net/manual/en/class.exception.php
+
+PDO error handling
+https://www.php.net/manual/en/pdo.error-handling.php
+
