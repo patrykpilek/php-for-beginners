@@ -121,6 +121,7 @@
   - Queries in PDO: Change the index page to use the new database class
   - Catch database errors using exception and try ... catch blocks
   - Prepared statements with named parameters in PDO: view an individual article
+  - Create an article class and use it on the index and article pages
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
 - [ ] Site Administration
