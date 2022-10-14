@@ -28,3 +28,12 @@ https://www.php.net/manual/en/class.exception.php
 PDO error handling
 https://www.php.net/manual/en/pdo.error-handling.php
 
+4.
+PHP: PDO::prepare
+https://www.php.net/manual/en/pdo.prepare.php
+
+PHP: PDOStatement::bindValue
+https://www.php.net/manual/en/pdostatement.bindvalue.php
+
+PHP: PDOStatement::fetch
+https://www.php.net/manual/en/pdostatement.fetch.php
