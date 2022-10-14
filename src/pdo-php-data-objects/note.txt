@@ -13,3 +13,7 @@ https://www.php.net/manual/en/book.mysqli.php
 
 PHP: PDO::__construct
 https://www.php.net/manual/en/pdo.construct.php
+
+2.
+PHP: PDO::query
+https://www.php.net/manual/en/pdo.query.php

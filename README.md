@@ -118,6 +118,7 @@
   - Control Access: Protected visibility of properties and methods
 - [ ] PDO: PHP Data Objects
   - Add a database class and connect to the database using php data objects (PDO)
+  - Queries in PDO: Change the index page to use the new database class
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
 - [ ] Site Administration
