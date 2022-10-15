@@ -124,6 +124,7 @@
   - Create an article class and use it on the index and article pages
   - Fetch the Database record as on object instead of an array
   - Update the article record using PDO
+  - Move the validation function to the article class
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
 - [ ] Site Administration
