@@ -37,3 +37,7 @@ https://www.php.net/manual/en/pdostatement.bindvalue.php
 
 PHP: PDOStatement::fetch
 https://www.php.net/manual/en/pdostatement.fetch.php
+
+6.
+PHP: PDOStatement::setFetchMode
+https://www.php.net/manual/en/pdostatement.setfetchmode.php
