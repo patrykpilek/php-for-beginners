@@ -117,6 +117,16 @@
   - Overriding methods and using the parent keyword to call the parent class code
   - Control Access: Protected visibility of properties and methods
 - [ ] PDO: PHP Data Objects
+  - Add a database class and connect to the database using php data objects (PDO)
+  - Queries in PDO: Change the index page to use the new database class
+  - Catch database errors using exception and try ... catch blocks
+  - Prepared statements with named parameters in PDO: view an individual article
+  - Create an article class and use it on the index and article pages
+  - Fetch the Database record as on object instead of an array
+  - Update the article record using PDO
+  - Move the validation function to the article class
+  - Delete the article record using PDO
+  - Insert a ndw article record using PDO and get the ID if the new record
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
 - [ ] Site Administration

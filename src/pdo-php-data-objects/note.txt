@@ -1,0 +1,47 @@
+1.
+PHP: MySQLi dual procedural and object-oriented interface
+https://www.php.net/manual/en/mysqli.quickstart.dual-interface.php
+
+PHP Data Objects
+https://www.php.net/manual/en/book.pdo.php
+
+PDO named placeholders
+https://www.php.net/manual/en/pdostatement.bindvalue.php#refsect1-pdostatement.bindvalue-examples
+
+PHP: MySQLi
+https://www.php.net/manual/en/book.mysqli.php
+
+PHP: PDO::__construct
+https://www.php.net/manual/en/pdo.construct.php
+
+2.
+PHP: PDO::query
+https://www.php.net/manual/en/pdo.query.php
+
+3.
+PHP: Exceptions
+https://www.php.net/manual/en/language.exceptions.php
+
+PHP: Exception class
+https://www.php.net/manual/en/class.exception.php
+
+PDO error handling
+https://www.php.net/manual/en/pdo.error-handling.php
+
+4.
+PHP: PDO::prepare
+https://www.php.net/manual/en/pdo.prepare.php
+
+PHP: PDOStatement::bindValue
+https://www.php.net/manual/en/pdostatement.bindvalue.php
+
+PHP: PDOStatement::fetch
+https://www.php.net/manual/en/pdostatement.fetch.php
+
+6.
+PHP: PDOStatement::setFetchMode
+https://www.php.net/manual/en/pdostatement.setfetchmode.php
+
+10.
+PHP: PDO::lastInsertId
+https://www.php.net/manual/en/pdo.lastinsertid.php
