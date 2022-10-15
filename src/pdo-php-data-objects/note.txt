@@ -41,3 +41,7 @@ https://www.php.net/manual/en/pdostatement.fetch.php
 6.
 PHP: PDOStatement::setFetchMode
 https://www.php.net/manual/en/pdostatement.setfetchmode.php
+
+10.
+PHP: PDO::lastInsertId
+https://www.php.net/manual/en/pdo.lastinsertid.php

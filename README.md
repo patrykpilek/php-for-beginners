@@ -126,6 +126,7 @@
   - Update the article record using PDO
   - Move the validation function to the article class
   - Delete the article record using PDO
+  - Insert a ndw article record using PDO and get the ID if the new record
 - [ ] Authentication Using the Database
 - [ ] Class Autoloading
 - [ ] Site Administration
