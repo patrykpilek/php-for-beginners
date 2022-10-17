@@ -130,6 +130,7 @@
 - [ ] Authentication Using the Database
   - Create a user class and method to authenticate a user
   - Create a table to store user data in the database
+  - Authenticate the user with data from the database
 - [ ] Class Autoloading
 - [ ] Site Administration
 - [ ] Pagination
