@@ -1,0 +1,15 @@
+2.
+
+CREATE TABLE `user` (
+  id int(11) NOT NULL,
+  username varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL,
+  password varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+ALTER TABLE `user`
+  ADD PRIMARY KEY (id),
+  ADD UNIQUE KEY username (username);
+
+
+ALTER TABLE `user`
+  MODIFY id int(11) NOT NULL AUTO_INCREMENT;
