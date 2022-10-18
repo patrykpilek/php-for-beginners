@@ -134,6 +134,7 @@
   - Store passwords securely: PHP password hashing functions
 - [ ] Class Autoloading
   - Convert the auth include into a class
+  - Convert the url include into a class
 - [ ] Site Administration
 - [ ] Pagination
 - [ ] Uploading Files
