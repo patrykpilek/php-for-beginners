@@ -128,6 +128,10 @@
   - Delete the article record using PDO
   - Insert a ndw article record using PDO and get the ID if the new record
 - [ ] Authentication Using the Database
+  - Create a user class and method to authenticate a user
+  - Create a table to store user data in the database
+  - Authenticate the user with data from the database
+  - Store passwords securely: PHP password hashing functions
 - [ ] Class Autoloading
 - [ ] Site Administration
 - [ ] Pagination

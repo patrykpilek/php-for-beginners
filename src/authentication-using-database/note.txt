@@ -1,0 +1,32 @@
+2.
+
+CREATE TABLE `user` (
+  id int(11) NOT NULL,
+  username varchar(20) COLLATE utf8mb4_unicode_ci NOT NULL,
+  password varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+ALTER TABLE `user`
+  ADD PRIMARY KEY (id),
+  ADD UNIQUE KEY username (username);
+
+
+ALTER TABLE `user`
+  MODIFY id int(11) NOT NULL AUTO_INCREMENT;
+
+4.
+PHP: md5
+https://www.php.net/manual/en/function.md5.php
+
+PHP: sha1
+https://www.php.net/manual/en/function.sha1.php
+
+PHP: hash
+https://www.php.net/manual/en/function.hash.php
+
+PHP: password_hash
+https://www.php.net/manual/en/function.password-hash.php
+
+PHP: password_verify
+https://www.php.net/manual/en/function.password-verify.php
+
