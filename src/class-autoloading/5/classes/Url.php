@@ -23,7 +23,7 @@ class Url
         }
 
 //        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . $path);
-        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/class-autoloading/4" . $path);
+        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/class-autoloading/5" . $path);
         exit;
     }
 }

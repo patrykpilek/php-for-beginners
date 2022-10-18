@@ -1,3 +1,7 @@
 3.
 PHP: spl_autoload_register
 https://www.php.net/manual/en/function.spl-autoload-register.php
+
+5.
+PHP: include
+https://www.php.net/manual/en/function.include.php

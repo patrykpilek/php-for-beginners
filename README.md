@@ -127,16 +127,17 @@
   - Move the validation function to the article class
   - Delete the article record using PDO
   - Insert a ndw article record using PDO and get the ID if the new record
-- [ ] Authentication Using the Database
+- [x] Authentication Using the Database
   - Create a user class and method to authenticate a user
   - Create a table to store user data in the database
   - Authenticate the user with data from the database
   - Store passwords securely: PHP password hashing functions
-- [ ] Class Autoloading
+- [x] Class Autoloading
   - Convert the auth include into a class
   - Convert the url include into a class
   - Autoloading classes: require class files automatically
   - Add an initialisation script including an autoloader
+  - Returning a value using require: add a script to get the database connection
 - [ ] Site Administration
 - [ ] Pagination
 - [ ] Uploading Files
