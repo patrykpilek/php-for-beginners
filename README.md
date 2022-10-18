@@ -135,6 +135,7 @@
 - [ ] Class Autoloading
   - Convert the auth include into a class
   - Convert the url include into a class
+  - Autoloading classes: require class files automatically
 - [ ] Site Administration
 - [ ] Pagination
 - [ ] Uploading Files
