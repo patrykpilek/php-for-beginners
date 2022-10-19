@@ -139,6 +139,7 @@
   - Add an initialisation script including an autoloader
   - Returning a value using require: add a script to get the database connection
 - [ ] Site Administration
+  - Move all authentication-related code to the auth class
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships
