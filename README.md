@@ -145,6 +145,7 @@
   - Display the admin list of articles in a table and restrict access to the page
   - Add sitewide navigation links
   - Move the edit and delete article scripts to the admin area
+  - Move the new article script to the admin area
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships
