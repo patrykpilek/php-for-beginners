@@ -143,6 +143,7 @@
   - Create an Admin index and load classes relative to the site root directory
   - Displaying tabular data in HTML: Tables
   - Display the admin list of articles in a table and restrict access to the page
+  - Add sitewide navigation links
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships
