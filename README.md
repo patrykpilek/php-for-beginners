@@ -140,6 +140,7 @@
   - Returning a value using require: add a script to get the database connection
 - [ ] Site Administration
   - Move all authentication-related code to the auth class
+  - Create an Admin index and load classes relative to the site root directory
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships

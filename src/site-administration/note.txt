@@ -1,0 +1,6 @@
+2.
+PHP: Magic constants
+https://www.php.net/manual/en/language.constants.predefined.php
+
+PHP: dirname
+https://www.php.net/manual/en/function.dirname.php
