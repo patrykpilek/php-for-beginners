@@ -4,3 +4,7 @@ https://www.php.net/manual/en/language.constants.predefined.php
 
 PHP: dirname
 https://www.php.net/manual/en/function.dirname.php
+
+3.
+DevDocs - HTML/table
+https://devdocs.io/html/element/table

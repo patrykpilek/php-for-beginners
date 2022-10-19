@@ -141,6 +141,7 @@
 - [ ] Site Administration
   - Move all authentication-related code to the auth class
   - Create an Admin index and load classes relative to the site root directory
+  - Displaying tabular data in HTML: Tables
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships
