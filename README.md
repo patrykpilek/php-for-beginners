@@ -142,6 +142,7 @@
   - Move all authentication-related code to the auth class
   - Create an Admin index and load classes relative to the site root directory
   - Displaying tabular data in HTML: Tables
+  - Display the admin list of articles in a table and restrict access to the page
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships
