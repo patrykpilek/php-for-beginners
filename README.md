@@ -138,7 +138,14 @@
   - Autoloading classes: require class files automatically
   - Add an initialisation script including an autoloader
   - Returning a value using require: add a script to get the database connection
-- [ ] Site Administration
+- [x] Site Administration
+  - Move all authentication-related code to the auth class
+  - Create an Admin index and load classes relative to the site root directory
+  - Displaying tabular data in HTML: Tables
+  - Display the admin list of articles in a table and restrict access to the page
+  - Add sitewide navigation links
+  - Move the edit and delete article scripts to the admin area
+  - Move the new article script to the admin area
 - [ ] Pagination
 - [ ] Uploading Files
 - [ ] Database Relationships
