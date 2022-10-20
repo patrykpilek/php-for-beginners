@@ -147,6 +147,7 @@
   - Move the edit and delete article scripts to the admin area
   - Move the new article script to the admin area
 - [ ] Pagination
+  - Add a method to the article class to get a single page of article records
 - [ ] Uploading Files
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
