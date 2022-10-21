@@ -1,0 +1,6 @@
+3.
+PHP: Ternary Operator
+https://www.php.net/manual/en/language.operators.comparison.php#language.operators.comparison.ternary
+
+PHP: Null coalescing operator
+https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op
