@@ -148,6 +148,7 @@
   - Move the new article script to the admin area
 - [ ] Pagination
   - Add a method to the article class to get a single page of article records
+  - Add a paginator class and calculate the offset and limit from the page number
 - [ ] Uploading Files
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
