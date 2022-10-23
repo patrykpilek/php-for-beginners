@@ -4,3 +4,10 @@ https://www.php.net/manual/en/language.operators.comparison.php#language.operato
 
 PHP: Null coalescing operator
 https://www.php.net/manual/en/migration70.new-features.php#migration70.new-features.null-coalesce-op
+
+4.
+PHP: filter_var
+https://www.php.net/manual/en/function.filter-var.php
+
+PHP: Validate filters
+https://www.php.net/manual/en/filter.filters.validate.php
