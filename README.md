@@ -151,6 +151,7 @@
   - Add a paginator class and calculate the offset and limit from the page number
   - Get the page number from the query string
   - Validate the page number using the filter_var function
+  - Add previous and next pagination links
 - [ ] Uploading Files
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
