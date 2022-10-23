@@ -11,3 +11,13 @@ https://www.php.net/manual/en/function.filter-var.php
 
 PHP: Validate filters
 https://www.php.net/manual/en/filter.filters.validate.php
+
+6.
+COUNT - MariaDB Knowledge Base
+https://mariadb.com/kb/en/count/
+
+PHP: PDO::query
+https://www.php.net/manual/en/pdo.query.php
+
+PHP: PDOStatement::fetchColumn
+https://www.php.net/manual/en/pdostatement.fetchcolumn.php
