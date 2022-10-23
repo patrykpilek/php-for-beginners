@@ -116,7 +116,7 @@
   - Inheritance: using the extends keyword to reuse code and reduce repetition
   - Overriding methods and using the parent keyword to call the parent class code
   - Control Access: Protected visibility of properties and methods
-- [ ] PDO: PHP Data Objects
+- [x] PDO: PHP Data Objects
   - Add a database class and connect to the database using php data objects (PDO)
   - Queries in PDO: Change the index page to use the new database class
   - Catch database errors using exception and try ... catch blocks
@@ -146,13 +146,14 @@
   - Add sitewide navigation links
   - Move the edit and delete article scripts to the admin area
   - Move the new article script to the admin area
-- [ ] Pagination
+- [x] Pagination
   - Add a method to the article class to get a single page of article records
   - Add a paginator class and calculate the offset and limit from the page number
   - Get the page number from the query string
   - Validate the page number using the filter_var function
   - Add previous and next pagination links
   - Calculate the total number of records and pages
+  - Add pagination to the admin index and create shared pagination links
 - [ ] Uploading Files
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories

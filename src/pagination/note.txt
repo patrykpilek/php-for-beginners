@@ -21,3 +21,10 @@ https://www.php.net/manual/en/pdo.query.php
 
 PHP: PDOStatement::fetchColumn
 https://www.php.net/manual/en/pdostatement.fetchcolumn.php
+
+7.
+PHP: $_SERVER
+https://www.php.net/manual/en/reserved.variables.server.php
+
+PHP: strtok
+https://www.php.net/manual/en/function.strtok.php
