@@ -157,6 +157,7 @@
 - [ ] Uploading Files
   - Add a form to upload an article image
   - Handle the upload error code
+  - Restrict the size of all uploaded files using PHP configuration settings
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP

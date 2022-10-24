@@ -14,3 +14,16 @@ https://www.php.net/manual/en/reserved.variables.files.php
 2.
 PHP: File upload error messages
 https://www.php.net/manual/en/features.file-upload.errors.php
+
+3.
+PHP: How to change configuration settings
+https://www.php.net/manual/en/configuration.changes.php
+
+PHP: ini_set
+https://www.php.net/manual/en/function.ini-set.php
+
+PHP: File upload error message
+https://www.php.net/manual/en/features.file-upload.errors.php
+
+PHP: display_startup_errors
+https://www.php.net/manual/en/errorfunc.configuration.php#ini.display-startup-errors
