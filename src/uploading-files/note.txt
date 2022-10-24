@@ -10,3 +10,7 @@ https://www.php.net/manual/en/reserved.variables.post.php
 
 PHP: $_FILES
 https://www.php.net/manual/en/reserved.variables.files.php
+
+2.
+PHP: File upload error messages
+https://www.php.net/manual/en/features.file-upload.errors.php

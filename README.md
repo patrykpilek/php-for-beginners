@@ -156,6 +156,7 @@
   - Add pagination to the admin index and create shared pagination links
 - [ ] Uploading Files
   - Add a form to upload an article image
+  - Handle the upload error code
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP
