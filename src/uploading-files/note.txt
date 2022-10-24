@@ -1,0 +1,12 @@
+1.
+BLOB Data Types - MariaDB Knowledge Base
+https://mariadb.com/kb/en/blob-and-text-data-types/
+
+DevDocs - HTML / input type="file"
+https://devdocs.io/html/element/input/file
+
+PHP: $_POST
+https://www.php.net/manual/en/reserved.variables.post.php
+
+PHP: $_FILES
+https://www.php.net/manual/en/reserved.variables.files.php

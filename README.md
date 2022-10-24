@@ -155,6 +155,7 @@
   - Calculate the total number of records and pages
   - Add pagination to the admin index and create shared pagination links
 - [ ] Uploading Files
+  - Add a form to upload an article image
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP
