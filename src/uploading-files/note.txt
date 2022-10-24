@@ -27,3 +27,7 @@ https://www.php.net/manual/en/features.file-upload.errors.php
 
 PHP: display_startup_errors
 https://www.php.net/manual/en/errorfunc.configuration.php#ini.display-startup-errors
+
+4.
+Does 1MB mean 1000000 bytes, 1024000 bytes, or 1048576 bytes?
+https://superuser.com/questions/373579/is-it-true-that-1-mb-can-mean-either-1000000-bytes-1024000-bytes-or-1048576-by
