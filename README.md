@@ -159,6 +159,7 @@
   - Handle the upload error code
   - Restrict the size of all uploaded files using PHP configuration settings
   - Restrict the size of an uploaded file in an individual form
+  - Restrict the type of an uploaded file
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP

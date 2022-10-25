@@ -31,3 +31,19 @@ https://www.php.net/manual/en/errorfunc.configuration.php#ini.display-startup-er
 4.
 Does 1MB mean 1000000 bytes, 1024000 bytes, or 1048576 bytes?
 https://superuser.com/questions/373579/is-it-true-that-1-mb-can-mean-either-1000000-bytes-1024000-bytes-or-1048576-by
+
+5.
+MIME types
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
+Incomplete list of MIME types
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+PHP: POST method uploads
+https://www.php.net/manual/en/features.file-upload.post-method.php
+
+Apache: files with multiple extensions
+https://httpd.apache.org/docs/current/mod/mod_mime.html#multipleext
+
+PHP: Fileinfo
+https://www.php.net/manual/en/book.fileinfo.php
