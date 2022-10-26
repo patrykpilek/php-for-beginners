@@ -47,3 +47,7 @@ https://httpd.apache.org/docs/current/mod/mod_mime.html#multipleext
 
 PHP: Fileinfo
 https://www.php.net/manual/en/book.fileinfo.php
+
+6.
+PHP: move_uploaded_file
+https://www.php.net/manual/en/function.move-uploaded-file.php
