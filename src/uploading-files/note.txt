@@ -55,3 +55,7 @@ https://www.php.net/manual/en/function.move-uploaded-file.php
 7.
 PHP: pathinfo
 https://www.php.net/manual/en/function.pathinfo.php
+
+8.
+PHP: file_exists
+https://www.php.net/manual/en/function.file-exists.php

@@ -162,6 +162,7 @@
   - Restrict the type of an uploaded file
   - Create a folder for uploads and move the uploaded file into it
   - Sanitise the uploaded filename as a security precaution
+  - Don't overwrite existing file in the uploads folder
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP
