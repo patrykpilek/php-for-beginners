@@ -161,6 +161,7 @@
   - Restrict the size of an uploaded file in an individual form
   - Restrict the type of an uploaded file
   - Create a folder for uploads and move the uploaded file into it
+  - Sanitise the uploaded filename as a security precaution
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP
