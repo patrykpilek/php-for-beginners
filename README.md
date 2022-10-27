@@ -154,7 +154,7 @@
   - Add previous and next pagination links
   - Calculate the total number of records and pages
   - Add pagination to the admin index and create shared pagination links
-- [ ] Uploading Files
+- [x] Uploading Files
   - Add a form to upload an article image
   - Handle the upload error code
   - Restrict the size of all uploaded files using PHP configuration settings
@@ -166,6 +166,7 @@
   - Save the filename to the article record in the database
   - Display the uploaded image if an article has one
   - Delete the previous image file when an article image is updated
+  - Add an option to delete an article's image file
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP
