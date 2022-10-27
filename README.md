@@ -165,6 +165,7 @@
   - Don't overwrite existing file in the uploads folder
   - Save the filename to the article record in the database
   - Display the uploaded image if an article has one
+  - Delete the previous image file when an article image is updated
 - [ ] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP

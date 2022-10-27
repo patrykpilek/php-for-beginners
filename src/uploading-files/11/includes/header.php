@@ -12,16 +12,16 @@
 
     <nav>
         <ul>
-            <li><a href="/uploading-files/10/index.php">Home</a></li>
+            <li><a href="/uploading-files/11/index.php">Home</a></li>
 
             <?php if (Auth::isLoggedIn()) : ?>
 
-                <li><a href="/uploading-files/10/admin/index.php">Admin</a></li>
-                <li><a href="/uploading-files/10/logout.php">Log out</a></li>
+                <li><a href="/uploading-files/11/admin/index.php">Admin</a></li>
+                <li><a href="/uploading-files/11/logout.php">Log out</a></li>
 
             <?php else : ?>
 
-                <li><a href="/uploading-files/10/login.php">Log in</a></li>
+                <li><a href="/uploading-files/11/login.php">Log in</a></li>
 
             <?php endif; ?>
         </ul>

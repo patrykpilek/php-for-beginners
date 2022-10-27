@@ -66,3 +66,7 @@ https://www.php.net/substr
 
 PHP: mb_substr
 https://www.php.net/mb_substr
+
+11.
+PHP: unlink
+https://www.php.net/manual/en/function.unlink.php
