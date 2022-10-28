@@ -1,3 +1,10 @@
 3.
 PHP: array_column
 https://www.php.net/manual/en/function.array-column.php
+
+4.
+MariaDB Error Codes
+https://mariadb.com/kb/en/mariadb-error-codes/
+
+MariaDB: INSERT IGNORE
+https://mariadb.com/kb/en/insert-ignore/

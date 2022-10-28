@@ -172,6 +172,7 @@
   - Show and article's categories on the individual article page
   - Get an article's categories in an object method
   - Add a category class and form inputs to edit an article's categories
+  - Insert article categories while avoiding duplicate records in the JOIN Table
 - [ ] JavaScript and PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
