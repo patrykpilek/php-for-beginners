@@ -167,7 +167,7 @@
   - Display the uploaded image if an article has one
   - Delete the previous image file when an article image is updated
   - Add an option to delete an article's image file
-- [ ] Database Relationships
+- [x] Database Relationships
 - [ ] Using Relationships: Article Categories
 - [ ] JavaScript and PHP
 - [ ] Dates and Times

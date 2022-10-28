@@ -1,0 +1,5 @@
+Joins: selecting date form multiple, related tables at once
+https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
+
+Relationship constraints
+https://mariadb.com/kb/en/mariadb-error-codes/
