@@ -170,6 +170,7 @@
 - [x] Database Relationships
 - [ ] Using Relationships: Article Categories
   - Show and article's categories on the individual article page
+  - Get an article's categories in an object method
 - [ ] JavaScript and PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
