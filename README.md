@@ -171,6 +171,7 @@
 - [ ] Using Relationships: Article Categories
   - Show and article's categories on the individual article page
   - Get an article's categories in an object method
+  - Add a category class and form inputs to edit an article's categories
 - [ ] JavaScript and PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
