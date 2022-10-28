@@ -169,6 +169,7 @@
   - Add an option to delete an article's image file
 - [x] Database Relationships
 - [ ] Using Relationships: Article Categories
+  - Show and article's categories on the individual article page
 - [ ] JavaScript and PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
