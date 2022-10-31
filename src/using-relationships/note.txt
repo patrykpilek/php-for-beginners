@@ -15,3 +15,13 @@ https://www.php.net/manual/en/function.implode.php
 
 PDPStatement:bindValue
 https://www.php.net/manual/en/pdostatement.bindvalue.php
+
+6.
+MariaDB: NOT IN
+https://mariadb.com/kb/en/not-in/
+
+PHP: array_fill
+https://www.php.net/manual/en/function.array-fill.php
+
+PHP: count
+https://www.php.net/manual/en/function.count.php

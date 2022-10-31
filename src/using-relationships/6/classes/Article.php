@@ -222,8 +222,6 @@ class Article
 
             $sql .= implode(", ", $values);
 
-//            var_dump($sql); exit;
-
             $stmt = $conn->prepare($sql);
 
             foreach ($ids as $i => $id) {
@@ -232,6 +230,26 @@ class Article
 
             $stmt->execute();
         }
+
+        $sql = "DELETE FROM article_category WHERE article_id = {$this->id}";
+
+        if ($ids) {
+
+            $placeholders = array_fill(0, count($ids), '?');
+
+            $sql .= " AND category_id NOT IN (" . implode(", ", $placeholders) . ")";
+
+        }
+
+//        var_dump($sql); exit;
+
+        $stmt = $conn->prepare($sql);
+
+        foreach ($ids as $i => $id) {
+            $stmt->bindValue($i + 1, $id, PDO::PARAM_INT);
+        }
+
+        $stmt->execute();
     }
 
     /**
