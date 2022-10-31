@@ -168,7 +168,15 @@
   - Delete the previous image file when an article image is updated
   - Add an option to delete an article's image file
 - [x] Database Relationships
-- [ ] Using Relationships: Article Categories
+- [x] Using Relationships: Article Categories
+  - Show and article's categories on the individual article page
+  - Get an article's categories in an object method
+  - Add a category class and form inputs to edit an article's categories
+  - Insert article categories while avoiding duplicate records in the JOIN Table
+  - Insert article categories more efficiently using a single query
+  - Delete article category records if unchecked in the form
+  - Add categories when inserting a new article record
+  - Pagination and JOINS: show categories in the index page
 - [ ] JavaScript and PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
