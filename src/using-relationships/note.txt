@@ -8,3 +8,10 @@ https://mariadb.com/kb/en/mariadb-error-codes/
 
 MariaDB: INSERT IGNORE
 https://mariadb.com/kb/en/insert-ignore/
+
+5.
+PHP: implode
+https://www.php.net/manual/en/function.implode.php
+
+PDPStatement:bindValue
+https://www.php.net/manual/en/pdostatement.bindvalue.php
