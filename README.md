@@ -175,6 +175,7 @@
   - Insert article categories while avoiding duplicate records in the JOIN Table
   - Insert article categories more efficiently using a single query
   - Delete article category records if unchecked in the form
+  - Add categories when inserting a new article record
 - [ ] JavaScript and PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
