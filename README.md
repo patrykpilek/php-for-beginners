@@ -179,6 +179,7 @@
   - Pagination and JOINS: show categories in the index page
 - [ ] JavaScript and PHP
   - Execute code in the browser: an introduction to javascript
+  - Using the jQuery library
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
