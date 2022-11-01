@@ -180,6 +180,7 @@
 - [ ] JavaScript and PHP
   - Execute code in the browser: an introduction to javascript
   - Using the jQuery library
+  - Add jQuery and a custom script file to the CMS
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP

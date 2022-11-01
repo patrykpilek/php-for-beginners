@@ -11,3 +11,7 @@ https://jquery.com/
 
 plainJS - The Vanilla JavaScript
 https://plainjs.com/
+
+3.
+Using jQuery with a CDN
+https://jquery.com/download/#using-jquery-with-a-cdn
