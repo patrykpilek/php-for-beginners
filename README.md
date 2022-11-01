@@ -178,6 +178,7 @@
   - Add categories when inserting a new article record
   - Pagination and JOINS: show categories in the index page
 - [ ] JavaScript and PHP
+  - Execute code in the browser: an introduction to javascript
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
