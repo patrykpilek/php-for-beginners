@@ -15,3 +15,13 @@ https://plainjs.com/
 3.
 Using jQuery with a CDN
 https://jquery.com/download/#using-jquery-with-a-cdn
+
+5.
+DevDocs -HTML / required (attribute)
+https://devdocs.io/html/attributes#required-attribute
+
+jQuery Validation Plugin
+https://jqueryvalidation.org/
+
+DevDocs - JavaScript /Date.parse
+https://devdocs.io/javascript/global_objects/date/parse
