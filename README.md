@@ -184,6 +184,7 @@
   - Add delete confirmation using JavaScript and POST
   - Client-side form validation using the jQuery validation
   - An introduction to Ajax with PHP
+  - Use JSON to safely encode structured data in an Ajax request
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
