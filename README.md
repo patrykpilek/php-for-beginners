@@ -182,7 +182,8 @@
   - Using the jQuery library
   - Add jQuery and a custom script file to the CMS
   - Add delete confirmation using JavaScript and POST
-  - Client-side form validation using the jQuery validation 
+  - Client-side form validation using the jQuery validation
+  - An introduction to Ajax with PHP
 - [ ] Dates and Times
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP

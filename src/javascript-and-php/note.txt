@@ -25,3 +25,13 @@ https://jqueryvalidation.org/
 
 DevDocs - JavaScript /Date.parse
 https://devdocs.io/javascript/global_objects/date/parse
+
+5.
+Send Ajax GET and POST requests - Plain JS
+https://plainjs.com/javascript/ajax/send-ajax-get-and-post-requests-47/
+
+jQuery.ajax()
+https://api.jquery.com/jquery.ajax/
+
+jQuery deferred.done()
+https://api.jquery.com/deferred.done/
