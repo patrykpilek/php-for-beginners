@@ -189,6 +189,7 @@
   - Only show an individual article if it's been published
   - Only show published articles on the index page
   - Use the DateTimes class and the Time element to show the published date and time
+  - Show the published date and time of articles in the admin area
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling
