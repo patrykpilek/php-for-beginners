@@ -11,3 +11,10 @@ https://www.php.net/manual/en/datetime.construct.php
 
 PHP: DateTime::format
 https://www.php.net/manual/en/datetime.format.php
+
+5.
+Using data attributes in HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
+
+.data() | jQuery API Documentation
+https://api.jquery.com/data/
