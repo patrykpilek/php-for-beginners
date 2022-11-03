@@ -188,6 +188,7 @@
 - [ ] Dates and Times
   - Only show an individual article if it's been published
   - Only show published articles on the index page
+  - Use the DateTimes class and the Time element to show the published date and time
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling

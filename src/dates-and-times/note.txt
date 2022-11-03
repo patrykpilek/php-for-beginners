@@ -1,3 +1,13 @@
 1.
 SQL Comparison Operators - MariaDB
 https://mariadb.com/kb/en/comparison-operators/
+
+3.
+DevDocs - HTML / time
+https://devdocs.io/html/element/time
+
+PHP: DateTimes::__construct
+https://www.php.net/manual/en/datetime.construct.php
+
+PHP: DateTime::format
+https://www.php.net/manual/en/datetime.format.php
