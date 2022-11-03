@@ -1,0 +1,50 @@
+1.
+JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Node.js
+https://nodejs.org/en/
+
+2.
+jQuery
+https://jquery.com/
+
+plainJS - The Vanilla JavaScript
+https://plainjs.com/
+
+3.
+Using jQuery with a CDN
+https://jquery.com/download/#using-jquery-with-a-cdn
+
+5.
+DevDocs -HTML / required (attribute)
+https://devdocs.io/html/attributes#required-attribute
+
+jQuery Validation Plugin
+https://jqueryvalidation.org/
+
+DevDocs - JavaScript /Date.parse
+https://devdocs.io/javascript/global_objects/date/parse
+
+5.
+Send Ajax GET and POST requests - Plain JS
+https://plainjs.com/javascript/ajax/send-ajax-get-and-post-requests-47/
+
+jQuery.ajax()
+https://api.jquery.com/jquery.ajax/
+
+jQuery deferred.done()
+https://api.jquery.com/deferred.done/
+
+6.
+DevDocs - HTML / dl
+https://devdocs.io/html/element/dl
+
+JSON
+https://www.json.org/json-en.html
+
+PHP: json_encode
+https://www.php.net/manual/en/function.json-encode.php
+
+DevDocs - JavaScript / JSON.parse
+https://devdocs.io/javascript/global_objects/json/parse
