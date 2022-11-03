@@ -186,6 +186,7 @@
   - An introduction to Ajax with PHP
   - Use JSON to safely encode structured data in an Ajax request
 - [ ] Dates and Times
+  - Only show an individual article if it's been published
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling
