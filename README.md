@@ -177,7 +177,7 @@
   - Delete article category records if unchecked in the form
   - Add categories when inserting a new article record
   - Pagination and JOINS: show categories in the index page
-- [ ] JavaScript and PHP
+- [x] JavaScript and PHP
   - Execute code in the browser: an introduction to javascript
   - Using the jQuery library
   - Add jQuery and a custom script file to the CMS
