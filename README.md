@@ -187,6 +187,7 @@
   - Use JSON to safely encode structured data in an Ajax request
 - [ ] Dates and Times
   - Only show an individual article if it's been published
+  - Only show published articles on the index page
 - [ ] An Introduction to CSS
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling
