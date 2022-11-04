@@ -36,3 +36,10 @@ https://getbootstrap.com/docs/4.0/components/navs/
 
 Boostrap pagination
 https://getbootstrap.com/docs/4.0/components/pagination/
+
+4.
+Bootstrap forms
+https://getbootstrap.com/docs/4.0/components/forms/
+
+Bootstrap tables
+https://getbootstrap.com/docs/4.0/content/tables/

@@ -195,5 +195,6 @@
   - Add styling and formatting to HTML: an introduction to CSS
   - Using CSS frameworks: Bootstrap et al
   - Add a general layout and style the navigation links
+  - Add styling and layout to forms and tables
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling
