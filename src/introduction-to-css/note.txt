@@ -23,3 +23,16 @@ https://milligram.io/
 
 Bootstrap
 https://getbootstrap.com/
+
+3.
+Bootstrap starter template
+https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
+
+Bootstrap overview
+https://getbootstrap.com/docs/4.0/layout/overview/
+
+Boostrap navs
+https://getbootstrap.com/docs/4.0/components/navs/
+
+Boostrap pagination
+https://getbootstrap.com/docs/4.0/components/pagination/

@@ -23,7 +23,7 @@ class Url
         }
 
 //        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . $path);
-        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "introduction-to-css/2" . $path);
+        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "introduction-to-css/3" . $path);
         exit;
     }
 }
