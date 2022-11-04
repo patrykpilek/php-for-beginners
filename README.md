@@ -193,5 +193,6 @@
   - Publish unpublished articles using an Ajax request
 - [ ] An Introduction to CSS
   - Add styling and formatting to HTML: an introduction to CSS
+  - Using CSS frameworks: Bootstrap et al
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling

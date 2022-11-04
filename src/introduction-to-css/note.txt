@@ -10,3 +10,16 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
 
 CSS Reference
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+2.
+Semantic UI
+https://semantic-ui.com/
+
+UIKit
+https://getuikit.com/
+
+Milligram CSS framework
+https://milligram.io/
+
+Bootstrap
+https://getbootstrap.com/
