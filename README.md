@@ -192,5 +192,6 @@
   - Show the published date and time of articles in the admin area
   - Publish unpublished articles using an Ajax request
 - [ ] An Introduction to CSS
+  - Add styling and formatting to HTML: an introduction to CSS
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling
