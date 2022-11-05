@@ -200,4 +200,5 @@
   - Add a Date and Time Picker plugin to make selecting dates and times easier
 - [ ] Sending Emails from PHP
   - Add a contact page for sending an email
+  - Validate the submitted contact form
 - [ ] Configuration and Error Handling
