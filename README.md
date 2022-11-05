@@ -196,5 +196,6 @@
   - Using CSS frameworks: Bootstrap et al
   - Add a general layout and style the navigation links
   - Add styling and layout to forms and tables
+  - Add a custom stylesheet and style the list of articles
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling

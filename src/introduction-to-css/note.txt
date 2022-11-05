@@ -43,3 +43,10 @@ https://getbootstrap.com/docs/4.0/components/forms/
 
 Bootstrap tables
 https://getbootstrap.com/docs/4.0/content/tables/
+
+5.
+DevDocs - CSS / list-style-type
+https://devdocs.io/css/list-style-type
+
+DevDocs - CSS / padding-left
+https://devdocs.io/css/padding-left
