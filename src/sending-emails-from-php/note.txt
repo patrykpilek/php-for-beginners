@@ -31,3 +31,7 @@ https://github.com/PHPMailer/PHPMailer
 
 PHPMailer wiki
 https://github.com/PHPMailer/PHPMailer/wiki
+
+4.
+PHPMailer
+https://github.com/PHPMailer/PHPMailer
