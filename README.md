@@ -191,11 +191,12 @@
   - Use the DateTimes class and the Time element to show the published date and time
   - Show the published date and time of articles in the admin area
   - Publish unpublished articles using an Ajax request
-- [ ] An Introduction to CSS
+- [x] An Introduction to CSS
   - Add styling and formatting to HTML: an introduction to CSS
   - Using CSS frameworks: Bootstrap et al
   - Add a general layout and style the navigation links
   - Add styling and layout to forms and tables
   - Add a custom stylesheet and style the list of articles
+  - Add a Date and Time Picker plugin to make selecting dates and times easier
 - [ ] Sending Emails from PHP
 - [ ] Configuration and Error Handling
