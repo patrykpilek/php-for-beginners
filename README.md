@@ -201,4 +201,5 @@
 - [ ] Sending Emails from PHP
   - Add a contact page for sending an email
   - Validate the submitted contact form
+  - How to send email from PHP: the mail function and PHPMailer
 - [ ] Configuration and Error Handling
