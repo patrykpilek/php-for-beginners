@@ -199,4 +199,5 @@
   - Add a custom stylesheet and style the list of articles
   - Add a Date and Time Picker plugin to make selecting dates and times easier
 - [ ] Sending Emails from PHP
+  - Add a contact page for sending an email
 - [ ] Configuration and Error Handling
