@@ -1,0 +1,56 @@
+1.
+DevDocs - CSS Documentation
+https://devdocs.io/css/
+
+DevDocs - HTML/link
+https://devdocs.io/html/element/link
+
+CSS Selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+
+CSS Reference
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+2.
+Semantic UI
+https://semantic-ui.com/
+
+UIKit
+https://getuikit.com/
+
+Milligram CSS framework
+https://milligram.io/
+
+Bootstrap
+https://getbootstrap.com/
+
+3.
+Bootstrap starter template
+https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
+
+Bootstrap overview
+https://getbootstrap.com/docs/4.0/layout/overview/
+
+Boostrap navs
+https://getbootstrap.com/docs/4.0/components/navs/
+
+Boostrap pagination
+https://getbootstrap.com/docs/4.0/components/pagination/
+
+4.
+Bootstrap forms
+https://getbootstrap.com/docs/4.0/components/forms/
+
+Bootstrap tables
+https://getbootstrap.com/docs/4.0/content/tables/
+
+5.
+DevDocs - CSS / list-style-type
+https://devdocs.io/css/list-style-type
+
+DevDocs - CSS / padding-left
+https://devdocs.io/css/padding-left
+
+6.
+DateTimePicker
+https://xdsoft.net/jqplugins/datetimepicker/
