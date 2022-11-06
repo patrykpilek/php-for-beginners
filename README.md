@@ -204,3 +204,4 @@
   - How to send email from PHP: the mail function and PHPMailer
   - Send email from the contact page using PHPMailer
 - [ ] Configuration and Error Handling
+  - Extract environment-dependent settings out into a single configuration file
