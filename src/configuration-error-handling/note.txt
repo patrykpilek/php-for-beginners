@@ -5,3 +5,19 @@ https://www.php.net/manual/en/function.define.php
 2.
 Apache <Files> Directive
 https://httpd.apache.org/docs/current/mod/core.html#files
+
+3.
+PHP: Errors
+https://www.php.net/manual/en/language.errors.php
+
+PHP: Exceptions
+https://www.php.net/manual/en/language.exceptions.php
+
+PHP: set_error_handler
+https://www.php.net/manual/en/function.set-error-handler.php
+
+PHP: set_exception_handler
+https://www.php.net/manual/en/function.set-exception-handler.php
+
+PHP: ErrorException
+https://www.php.net/manual/en/class.errorexception.php

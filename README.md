@@ -206,3 +206,4 @@
 - [ ] Configuration and Error Handling
   - Extract environment-dependent settings out into a single configuration file
   - Deny Direct Access to the config file form a browser
+  - Handing errors and exceptions: user-defined handling functions
