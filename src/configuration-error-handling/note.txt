@@ -1,3 +1,7 @@
 1.
 PHP: define
 https://www.php.net/manual/en/function.define.php
+
+2.
+Apache <Files> Directive
+https://httpd.apache.org/docs/current/mod/core.html#files

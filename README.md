@@ -205,3 +205,4 @@
   - Send email from the contact page using PHPMailer
 - [ ] Configuration and Error Handling
   - Extract environment-dependent settings out into a single configuration file
+  - Deny Direct Access to the config file form a browser
