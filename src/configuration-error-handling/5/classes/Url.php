@@ -23,7 +23,7 @@ class Url
         }
 
 //        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . $path);
-        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "sending-emails-from-php/4" . $path);
+        header("Location: $protocol://" . $_SERVER['HTTP_HOST'] . "/configuration-error-handling/5" . $path);
         exit;
     }
 }

@@ -10,18 +10,18 @@
 ## Branches:
 
 - [x] Variables (E.g.: http://localhost:8000/variables/hello.php)
-    - Display a message in your web browser
-    - What they are, how to create them, and how to name them
-    - Basic variable types; String and Numbers
-    - Basic variable types; Boolean and Null
-    - Perform operations on variables: Operators
-    - Strings: Using single or double quotes and variable interpolation
+  - Display a message in your web browser
+  - What they are, how to create them, and how to name them
+  - Basic variable types; String and Numbers
+  - Basic variable types; Boolean and Null
+  - Perform operations on variables: Operators
+  - Strings: Using single or double quotes and variable interpolation
 - [x] Arrays
-    - Introduction to Arrays: Create an Array and Access its elements
-    - Assign manual array indexes and create associative arrays
-    - Create and access multidimensional arrays
-    - Process each element of an arrays: foreach loops
-    - Process the value and index of each array element using a foreach loop
+  - Introduction to Arrays: Create an Array and Access its elements
+  - Assign manual array indexes and create associative arrays
+  - Create and access multidimensional arrays
+  - Process each element of an arrays: foreach loops
+  - Process the value and index of each array element using a foreach loop
 - [x] Control structures
   - Run code conditionally: the if construct
   - Compare one value to another: comparison operators
@@ -185,7 +185,7 @@
   - Client-side form validation using the jQuery validation
   - An introduction to Ajax with PHP
   - Use JSON to safely encode structured data in an Ajax request
-- [x Dates and Times
+- [x] Dates and Times
   - Only show an individual article if it's been published
   - Only show published articles on the index page
   - Use the DateTimes class and the Time element to show the published date and time
@@ -198,9 +198,14 @@
   - Add styling and layout to forms and tables
   - Add a custom stylesheet and style the list of articles
   - Add a Date and Time Picker plugin to make selecting dates and times easier
-- [ ] Sending Emails from PHP
+- [x] Sending Emails from PHP
   - Add a contact page for sending an email
   - Validate the submitted contact form
   - How to send email from PHP: the mail function and PHPMailer
   - Send email from the contact page using PHPMailer
-- [ ] Configuration and Error Handling
+- [x] Configuration and Error Handling
+  - Extract environment-dependent settings out into a single configuration file
+  - Deny Direct Access to the config file form a browser
+  - Handing errors and exceptions: user-defined handling functions
+  - Display error and exception details depending on the functions
+  - HTTP Status Codes and Handling Ajax Errors
