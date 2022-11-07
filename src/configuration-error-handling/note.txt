@@ -21,3 +21,7 @@ https://www.php.net/manual/en/function.set-exception-handler.php
 
 PHP: ErrorException
 https://www.php.net/manual/en/class.errorexception.php
+
+4.
+PHP: Exception
+https://www.php.net/manual/en/class.exception.php

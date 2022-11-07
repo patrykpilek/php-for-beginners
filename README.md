@@ -207,3 +207,4 @@
   - Extract environment-dependent settings out into a single configuration file
   - Deny Direct Access to the config file form a browser
   - Handing errors and exceptions: user-defined handling functions
+  - Display error and exception details depending on the functions
